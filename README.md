@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Dimitry</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Manrope&pause=1000&center=true&width=435&lines=In+the+past+-+UX%2FUI-designer%2C+right+now+-+curious+junior+FrontEnd+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Manrope&pause=1000&center=true&width=435&lines=In+the+past+-+UX%2FUI-designer%2C+right+now+-+curious+junior+FrontEnd+Developer" alt="Typing SVG" /></a> <br>
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
