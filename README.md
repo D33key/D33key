@@ -1,4 +1,5 @@
 ![bg](https://user-images.githubusercontent.com/73794986/211291437-60dc0b92-99f3-44be-bdac-2efe7a77bdbc.jpg)
+![](https://komarev.com/ghpvc/?username=D33key)
 
 If you don't want to read the information below, here are some facts about me:
 <ul>
@@ -9,5 +10,3 @@ If you don't want to read the information below, here are some facts about me:
 </ul>
 
 <p>In the past, I did <strong>2 years of web design</strong> and created websites using the Tilda constructor. For this I needed a basic knowledge of HTML and CSS.<br>Studying them, and then also Javascript, I realized that this is an incredibly interesting stuff.And after that, that was all I was interested in. To be more precise, I started seriously studying Javascript around November 2022. And to this day I wake up every day and realize that I can't live without going to Codewars and solving some tasks.<br>Right now I'm tightening up my knowledge <strong>in Javascript and studying React at the same time.</strong><br>I have plans to learn typescript.</p>
-
-![](https://komarev.com/ghpvc/?username=D33key)
