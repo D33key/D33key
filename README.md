@@ -10,3 +10,7 @@ If you don't want to read the information below, here are some facts about me:
 </ul>
 
 <p>In the past, I did <strong>2 years of web design</strong> and created websites using the Tilda constructor. For this I needed a basic knowledge of HTML and CSS.<br>Studying them, and then also Javascript, I realized that this is an incredibly interesting stuff.And after that, that was all I was interested in. To be more precise, I started seriously studying Javascript around November 2022. And to this day I wake up every day and realize that I can't live without going to Codewars and solving some tasks.<br>Right now I'm tightening up my knowledge <strong>in Javascript and studying React at the same time.</strong><br>I have plans to learn typescript.</p>
+
+<p>Here some links:</p>
+<a href="https://www.behance.net/dimask1s">![59340-graphic-computer-icons-designer-behance-social-logo](https://user-images.githubusercontent.com/73794986/215757781-5a875eb9-08d2-4d6c-ba80-e21214cc0b9a.png)
+</a>
