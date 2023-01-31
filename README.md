@@ -13,5 +13,5 @@ If you don't want to read the information below, here are some facts about me:
 
 <p>Here some links:</p>
 <a href="https://www.behance.net/dimask1s"> <img src="https://user-images.githubusercontent.com/73794986/215757781-5a875eb9-08d2-4d6c-ba80-e21214cc0b9a.png" alt='Behance' width="50"/>
-</a> <a href="https://codepen.io/d33key"> <img src="https://user-images.githubusercontent.com/73794986/215758466-6c46e1bb-8b72-4b9f-95ef-3886ef7378d5.png" alt='Behance' width="50"/>
+</a> <a href="https://codepen.io/d33key"> <img src="https://user-images.githubusercontent.com/73794986/215758836-87d45351-3495-4234-af7e-29955c36bf53.png" alt='Behance' width="50"/>
 </a>
