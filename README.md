@@ -9,7 +9,9 @@ If you don't want to read the information below, here are some facts about me:
 <li><img src="https://user-images.githubusercontent.com/73794986/211295909-564cecc6-7a5d-4fc6-82bd-f6e192c7513e.png" width="16"><span style="padding-left: 10px;">&nbsp;&nbsp;How to reach me <a href="mailto:kiselev.ds@rambler.ru?subject=Hello,Dimitry">kiselev.ds@rambler.ru</a></span></li>
 </ul>
 
-<p>In the past, I did <strong>2 years of web design</strong> and created websites using the Tilda constructor. For this I needed a basic knowledge of HTML and CSS.<br>Studying them, and then also Javascript, I realized that this is an incredibly interesting stuff.And after that, that was all I was interested in. To be more precise, I started seriously studying Javascript around November 2022. And to this day I wake up every day and realize that I can't live without going to Codewars and solving some tasks.<br>Right now I'm tightening up my knowledge <strong>in Javascript and studying React at the same time.</strong><br>I have plans to learn typescript.</p>
+<p>I'm a curious Junior FrontEnd-developer with a background in web design. I have 2 years of experience in web design, but I found my true passion in FrontEnd development. I enjoy building beautiful and functional web applications that solve real-world problems. I am proficient in HTML, CSS, JavaScript, React, and TypeScript.
+<br>
+Aside from coding, I am a video game enthusiast. In my free time, you can find me playing games or learning new technologies</p>
 
 <p>Here some links:</p>
 <a href="https://www.behance.net/dimask1s"> <img src="https://user-images.githubusercontent.com/73794986/215757781-5a875eb9-08d2-4d6c-ba80-e21214cc0b9a.png" alt='Behance' width="50"/>
