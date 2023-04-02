@@ -34,3 +34,5 @@ If you have any questions or suggestions, feel free to reach out to me:
 
 - Check out my designs on [Behance](https://www.behance.net/dimask1s).
 - See my code snippets on [Codepen](https://codepen.io/d33key).
+- My LeetCode on [LeetCode](https://leetcode.com/D33key/).
+- My CodeWars on [Codewars](https://www.codewars.com/users/D33key).
