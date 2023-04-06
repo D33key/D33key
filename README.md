@@ -15,6 +15,9 @@ Below is a list of the technologies and tools that I use to create my projects:
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs
 - [Axios](https://axios-http.com/) - Promise based HTTP client for the browser and node.js
 
+### 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 ## 📫 How to Reach Me
 
 If you have any questions or suggestions, feel free to reach out to me:
@@ -30,9 +33,14 @@ If you have any questions or suggestions, feel free to reach out to me:
 
 [![Top Languages Used on Github](https://github-readme-stats.vercel.app/api/top-langs/?username=D33key&layout=compact)](https://github.com/D33key)
 
-## 🔗 You can also find me on other platforms:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=D33Key&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- Check out my designs on [Behance](https://www.behance.net/dimask1s).
-- See my code snippets on [Codepen](https://codepen.io/d33key).
-- My LeetCode on [LeetCode](https://leetcode.com/D33key/).
-- My CodeWars on [Codewars](https://www.codewars.com/users/D33key).
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/dimask1s) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dimask1s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/d33key) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/d33key) 
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=D33Key&icon=0&color=0)](https://visitcount.itsvg.in)
