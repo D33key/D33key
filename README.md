@@ -9,11 +9,10 @@ I am a curious Junior FrontEnd-developer with a background in web design. I have
 
 Below is a list of the technologies and tools that I use to create my projects:
 
-- [React](https://reactjs.org/) - A JavaScript library for building user interfaces
-- [Redux Toolkit](https://redux-toolkit.js.org/) - The official, opinionated, batteries-included toolset for efficient Redux development
-- [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript that compiles to plain JavaScript
-- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs
-- [Axios](https://axios-http.com/) - Promise based HTTP client for the browser and node.js
+- [Next](https://nextjs.org/) 
+- [Effector](https://effector.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [MUI](https://mui.com/)
 
 ### 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
