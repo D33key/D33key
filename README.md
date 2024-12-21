@@ -3,7 +3,7 @@
 
 # Hi there, I'm Dmitry! 👋
 
-I am a curious Junior FrontEnd-developer with a background in web design. I have 2 years of experience in web design, but I found my true passion in FrontEnd development. I enjoy building beautiful and functional web applications that solve real-world problems. I am proficient in HTML, CSS, JavaScript, React, and TypeScript.
+I am a curious FrontEnd-developer with a background in web design. I have 2 years of experience in web design, but I found my true passion in FrontEnd development. I enjoy building beautiful and functional web applications that solve real-world problems. I am proficient in HTML, CSS, JavaScript, React, and TypeScript.
 
 ## 🔧 Technologies and Tools
 
